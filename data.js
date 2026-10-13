@@ -60,7 +60,7 @@ const DB = {
         },
         {
             name: "Ирибская СОШ",
-            max: "https://web.max.ru/-69636172573354"
+            max: "https://max.ru/id539002463_gos"
         },
         {
             name: "Тлярошская СОШ",
